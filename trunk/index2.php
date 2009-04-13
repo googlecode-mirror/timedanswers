@@ -92,7 +92,7 @@
 	print "<hr>";
 	print "<table border=\"1\" width=\"100%\" cellpadding=\"25\"><tr><td bgcolor=\"#FFDC87\" >";
 
-	include_once('../geshi.php');
+	include_once('../../geshi.php');
 
 	$geshi = new GeSHi($source, $language);
 
