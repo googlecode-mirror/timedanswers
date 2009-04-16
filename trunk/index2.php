@@ -8,6 +8,7 @@
 			Systeem:
 			Tabel:  set# sol# script_naam schaduw_naam week dag uur jaar pwd toelichting
 			
+			Werken met Rapid of Subcommander?
 			 
 	*/
 		
